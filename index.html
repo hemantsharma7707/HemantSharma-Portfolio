@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hemant Sharma | Developer</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <div class="logo">&lt;Hemant /&gt;</div>
+    <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</nav>
+
+<section class="hero">
+    <h1>Hi, I'm Hemant Sharma</h1>
+    <h2><span id="typing"></span></h2>
+    <button onclick="scrollToProjects()">View My Work</button>
+</section>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>
+        BCA student at Jagannath University, Jaipur.
+        Passionate about Frontend Development and building responsive,
+        interactive websites using HTML, CSS and JavaScript.
+    </p>
+</section>
+
+<section id="projects">
+    <h2>Projects</h2>
+    <div class="projects-container">
+
+        <div class="card">
+            <h3>🚗 Car Game</h3>
+            <p>Interactive browser game with keyboard controls and collision detection.</p>
+        </div>
+
+        <div class="card">
+            <h3>🔐 Login UI</h3>
+            <p>Responsive login and signup page with clean modern UI.</p>
+        </div>
+
+        <div class="card">
+            <h3>🖥️ Portfolio </h3>
+            <p>My personal portfolio website showing my skills and projects </p>
+        </div>
+
+    </div>
+</section>
+
+<section id="contact">
+    <h2>Contact Me</h2>
+    <form id="contactForm">
+        <input type="text" placeholder="Your Name" id="name">
+        <input type="email" placeholder="Your Email" id="email">
+        <textarea placeholder="Your Message" id="message"></textarea>
+        <button type="submit">Send Message</button>
+    </form>
+    <p id="formMsg"></p>
+</section>
+
+<footer>
+    <p>© 2026 Hemant Sharma | Frontend Developer</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
