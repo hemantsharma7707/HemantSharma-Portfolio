@@ -28,7 +28,7 @@ This project was created to practice **frontend development**, improve **respons
 https://hemantsharma7707.github.io/HemantSharma-Portfolio/
 
 ## 💻 GitHub Repository
-_Add your repository link here_
+https://github.com/hemantsharma7707/HemantSharma-Portfolio
 
 ---
 
