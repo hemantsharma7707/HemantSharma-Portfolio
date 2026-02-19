@@ -25,7 +25,7 @@ A fully responsive personal portfolio website built using **HTML, CSS, and JavaS
 This project was created to practice **frontend development**, improve **responsive design skills**, and build a professional online presence for recruiters and opportunities.
 
 ## 🔗 Live Demo
-_Add your GitHub Pages live link here_
+https://hemantsharma7707.github.io/HemantSharma-Portfolio/
 
 ## 💻 GitHub Repository
 _Add your repository link here_
